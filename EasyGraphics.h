@@ -72,11 +72,11 @@ void freeWall(Wall *WallAdress){
 }
 
 Wall* basicThinWall(){
-	return newWall("Thin Wall","─","│","┌","┐","└","┘","┤","├","┴","┬","┼");
+	return newWall("Thin Wall","-","|","/","\\","\\","/","+","+","+","+","+");
 }
 
 Wall* basicThickWall(){
-	return newWall("Thick Wall","═","║","╔","╗","╚","╝","╣","╠","╩","╦","╬");
+	return newWall("Thick Wall","-","|","/","\\","\\","/","+","+","+","+","+");
 }
 
 void FixTableRatio(int *Size,int *Rows,int *Columns){
