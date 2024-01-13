@@ -6,3 +6,5 @@ an usable example would be arithimetic analisys, bringing meaning to operations 
 # Disclaimer
 
 For Those Wanting to Try this: CAREFUL (I Barely know how to deal with allocated memory, DO NOT TRUST MY CODE)
+
+## Special thanks for pilantra's adm (Nempk1) for teaching me some C syntax stuff.
